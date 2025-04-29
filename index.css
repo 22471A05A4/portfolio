@@ -184,6 +184,9 @@ button:hover {
     .project-card:hover {
       transform: translateY(-5px);
     }
+    .certificates h1{
+      text-align: center;
+    }
     footer {
       background-color: #333;
       color: white;
